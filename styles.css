@@ -1,0 +1,54 @@
+/* styles.css */
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #02a4d3;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #003E81;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  padding: 12px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+footer {
+  background-color: #006ea5;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
+
+img.logo {
+  max-width: 150px;
+}
+
+.player-photo {
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 10px 0;
+}
+
